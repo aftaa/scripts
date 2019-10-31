@@ -1,2 +1,1 @@
-C:
-cd C:\OSPanel\domains\vg
+@cd C:\OSPanel\domains\vg\
